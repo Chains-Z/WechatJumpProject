@@ -1,0 +1,63 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "04697ae2-2e17-4c5d-82e2-94408592ab8f",
+  "files": [],
+  "subMetas": {
+    "46540": {
+      "importer": "gltf-mesh",
+      "uuid": "04697ae2-2e17-4c5d-82e2-94408592ab8f@46540",
+      "displayName": "",
+      "id": "46540",
+      "name": "Box001.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2e015": {
+      "importer": "gltf-scene",
+      "uuid": "04697ae2-2e17-4c5d-82e2-94408592ab8f@2e015",
+      "displayName": "",
+      "id": "2e015",
+      "name": "colorBar.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": true,
+    "dumpMaterials": true,
+    "disableMeshSplit": true,
+    "materialDumpDir": "db://assets/resources/effect/colorBar",
+    "redirect": "04697ae2-2e17-4c5d-82e2-94408592ab8f@2e015",
+    "assetFinder": {
+      "meshes": [
+        "04697ae2-2e17-4c5d-82e2-94408592ab8f@46540"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "47a8ebeb-de5b-4820-9405-d3c3665aa73b"
+      ],
+      "scenes": [
+        "04697ae2-2e17-4c5d-82e2-94408592ab8f@2e015"
+      ]
+    }
+  }
+}
